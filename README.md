@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+we have install Eclips,Spring boot,mysql,jsp
 ```
 
 ### Installing
@@ -47,6 +47,9 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
+https://start.spring.io/
+https://mysql.com/downloads/mysql/
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-03/R/eclipse-inst-jre-win64.exe
 ```
 Give the example
 ```
