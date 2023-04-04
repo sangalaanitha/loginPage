@@ -30,7 +30,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website LoginPage is a responsive e-commerce website. The technologies used in this project are HTML,JSP,Servlets, CSS, java wsing JavaScript and Bootstrap. There are a few important modules in the project like Singin page, image carousel, Create an account, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using Servlet. For Login-page we are using Jsp to  data before clicking on the checkout button. SkillLync helped me by providing the Spring-frames for all relevant feature pages
+Fully Functional E-commerce website LoginPage is a responsive e-commerce website. The technologies used in this project are HTML,JSP,Servlets, CSS, java wsing JavaScript and Bootstrap. There are a few important modules in the project like Signin page, image carousel, Create an account, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using Servlet. For Login-page we are using Jsp to  data before clicking on the checkout button. SkillLync helped me by providing the Spring-frames for all relevant feature pages
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and Login. See [deployment](#deployment) for notes on how to deploy the project on a live system.
